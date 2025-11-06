@@ -15,12 +15,17 @@
 ## Contents
 
 - [Official Resources](#official-resources)
+- [Developer Tools](#developer-tools)
 
 ## Official Resources
 
 - [OpenTUI](https://github.com/sst/opentui) - The main OpenTUI project.
 - [create-tui](https://github.com/msmps/create-tui) - The easiest way to get started with OpenTUI.
 - [OpenCode](https://opencode.ai/) - The AI coding agent built for the terminal.
+
+## Developer Tools
+
+- [critique](https://github.com/remorses/critique) - A terminal interface for reviewing git changes.
 
 ## Contributing
 
