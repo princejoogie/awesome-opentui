@@ -16,6 +16,7 @@
 
 - [Official Resources](#official-resources)
 - [Developer Tools](#developer-tools)
+- [Libraries](#libraries)
 
 ## Official Resources
 
@@ -27,6 +28,10 @@
 
 - [critique](https://github.com/remorses/critique) - A terminal interface for reviewing Git changes.
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
+
+## Libraries
+
+- [opentui-spinner](https://github.com/msmps/opentui-spinner) - A spinner component for OpenTUI.
 
 ## Contributing
 
