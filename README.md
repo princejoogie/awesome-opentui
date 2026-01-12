@@ -35,6 +35,7 @@
 - [cftop](https://github.com/NWBY/cftop) - A terminal interface for Cloudflare Workers.
 - [critique](https://github.com/remorses/critique) - A terminal interface for reviewing Git changes.
 - [easiarr](https://github.com/muhammedaksam/easiarr) - A terminal interface for managing Arr applications.
+- [git-graphs](https://github.com/princejoogie/git-graphs) - GitHub-style contribution graphs for any local git repository with commit statistics and contributor analytics.
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
 - [tokscale](https://github.com/junhoyeo/tokscale) - A terminal interface for tracking token usage across OpenCode/Claude Code/Codex/Gemini CLI/Cursor IDE.
 - [waha-tui](https://github.com/muhammedaksam/waha-tui) - A terminal user interface for WAHA (WhatsApp HTTP API).
